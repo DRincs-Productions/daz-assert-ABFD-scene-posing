@@ -1,4 +1,4 @@
-# ABFD-scene-posing## Request new material
+## Request new material
 If you need new assert or found out about the new best assert which should replace the existing one: you can request it [here](https://github.com/DonRP/ABFD-assert-posing/issues/new/choose)
 
 ## Instructions (for those unfamiliar with Git)
