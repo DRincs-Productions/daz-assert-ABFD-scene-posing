@@ -9,6 +9,3 @@ First install [GitHub Desktop](https://desktop.github.com/) then clone this repo
 (Important) After that you have to add the created folder as Daz library, like this.
 
 ![alt text](https://github.com/DonRP/BBS-3D/blob/master/images/2021-06-052.webp "Daz")
-
-## Wiki
-https://github.com/DonRP/ABFD-assert-posing/wiki
