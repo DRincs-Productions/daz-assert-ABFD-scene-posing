@@ -1,3 +1,7 @@
+First of all, all scenes can only include material from one of these repos, https://github.com/DRincs-Productions?q=daz&type=all&language=&sort= (if you find other useful material request it from me [here](Request-new-material) )
+
+
+
 ## Instructions (for those unfamiliar with Git)
 
 First install [GitHub Desktop](https://desktop.github.com/) then clone this repo (watch [example](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)).
