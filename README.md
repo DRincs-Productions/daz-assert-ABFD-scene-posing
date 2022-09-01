@@ -1,3 +1,5 @@
+[![Git Anti Virus Scan](https://github.com/DRincs-Productions/ABFD-scene-posing/actions/workflows/antivirus.yml/badge.svg)](https://github.com/DRincs-Productions/ABFD-scene-posing/actions/workflows/antivirus.yml)
+
 # First steps
 
 * First of all, all scenes can only include material from one of these repos, <https://github.com/DRincs-Productions?q=daz&type=all&language=&sort>= (if you find other useful material request it from me [here](#request-new-material) )
@@ -36,12 +38,7 @@ Here All:
 * if you have problems comment in the ticket
 * Once finished drag it in 'to test'
 
-## What will happen to the scenes then
-
-* will be copied into another final project, where they will be completed and refined.
-* Then rendered with an iray server
-  
-## Instructions to Download
+## Instructions (for those unfamiliar with Git)
 
 First install [GitHub Desktop](https://desktop.github.com/) then clone this repo (watch [example](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)).
 
@@ -51,4 +48,5 @@ First install [GitHub Desktop](https://desktop.github.com/) then clone this repo
 
 ## Request new material
 
-If you need new assert or found out about the new best assert which should replace the existing one: you can request it [here](https://github.com/DonRP/ABFD-assert-posing/issues/new/choose)
+If you need an Assert that is not included in this folder try checking in these bookmarks: [raindrop](https://raindrop.io/drincs)
+in case you find what you needed or not, request to add a new Assert [here](https://github.com/DRincs-Productions/daz-assert-posing/issues/new/choose).
