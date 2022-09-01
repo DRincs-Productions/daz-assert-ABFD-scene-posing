@@ -36,7 +36,9 @@ https://github.com/orgs/DRincs-Productions/projects/1/views/1
 * if you have problems comment in the ticket
 * Once finished drag it in 'to test'
 
-
+## What will happen to the scenes then
+* will be copied into another final project, where they will be completed and refined.
+* Then rendered with an iray server
   
   
 ## Instructions to Download
