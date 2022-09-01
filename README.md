@@ -32,7 +32,7 @@ https://github.com/orgs/DRincs-Productions/projects/1/views/1
 * create your line of work ![image](https://user-images.githubusercontent.com/67595890/187976886-f5693b2c-53c0-439c-af06-a772a3a9faf0.png)
 * [move to your branch from GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#choosing-a-branch-and-making-changes)
 * creates a new folder into which it places your work.
-* routinely uploads changes:  [include-in-a-commit](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#selecting-changes-to-include-in-a-commit) & [Upload](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#write-a-commit-message-and-push-your-changes)
+* routinely uploads changes:  [include-in-a-commit](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#selecting-changes-to-include-in-a-commit) & [Upload](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#write-a-commit-message-and-push-your-changes) (no we have scattering problems)
 * if you have problems comment in the ticket
 * Once finished drag it in 'to test'
 
