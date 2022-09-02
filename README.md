@@ -12,7 +12,7 @@
   * <https://github.com/DRincs-Productions/daz-assert-pose#readme> (for you fundamental)
   * <https://github.com/DRincs-Productions/daz-assert-props-pose> (for you fundamental)
   * <https://github.com/DRincs-Productions/daz-assert-character-tool> (assert employees)
-  * <https://github.com/DRincs-Productions/daz-assert-character-ABFD#readme>  (assert employees) è un progetto di >20GB
+  * <https://github.com/DRincs-Productions/daz-assert-character-ABFD#readme>  (assert employees) is a project of  >20GB
   * <https://github.com/DRincs-Productions/daz-assert-home>  (assert employees)
   
 ## How to work
