@@ -32,7 +32,7 @@ Here All:
 * Choose a ticket in TODO
 * assign it:![image](https://user-images.githubusercontent.com/67595890/187976846-b96bd4fe-2776-40ac-81b4-ceb79805a2ce.png)
 * drag it into 'In Progress'
-* create your line of work ![image](https://user-images.githubusercontent.com/67595890/187976886-f5693b2c-53c0-439c-af06-a772a3a9faf0.png)
+* create your line of work ![image](https://user-images.githubusercontent.com/67595890/188271312-4c007b09-7136-4e2b-94f1-9a09a939acac.png)
 * [move to your branch from GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#choosing-a-branch-and-making-changes)
 * creates a new folder into which it places your work.
 * routinely uploads changes:  [include-in-a-commit](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#selecting-changes-to-include-in-a-commit) & [Upload](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#write-a-commit-message-and-push-your-changes) (no we have scattering problems)
