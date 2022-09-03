@@ -2,7 +2,7 @@
 
 # First steps
 
-* Download this project (https://github.com/DRincs-Productions/ABFD-scene-posing) through [GitHub Desktop](https://desktop.github.com/) so you can share your work. [READ MORE](#Instructions-to-Download) 
+* Download this project (https://github.com/DRincs-Productions/ABFD-scene-posing) through [GitHub Desktop](https://desktop.github.com/) so you can share your work. [READ MORE](#Instructions-to-Download)   
  ![image](https://user-images.githubusercontent.com/67595890/188271433-393aeb4d-4044-475e-a702-54077f99e159.png)
 * (Recommended) In case you are working on several projects, I recommend splitting the assert folders, as shown below:
  ![image](https://user-images.githubusercontent.com/67595890/187970556-73c7c9a1-7def-4efe-ab4e-24f6a12e0f1e.png)
