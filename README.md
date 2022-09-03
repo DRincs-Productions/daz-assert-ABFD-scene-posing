@@ -9,12 +9,12 @@
  ![image](https://user-images.githubusercontent.com/67595890/187970581-617e4ec2-16f1-4527-9665-c03f395c2b9b.png)
 * The following repos will also be essential:
   * <https://github.com/DRincs-Productions/ABFD-assert> (Where the characters and environments will be)
-  * <https://github.com/DRincs-Productions/daz-assert-pose#readme> (for you fundamental)
-  * <https://github.com/DRincs-Productions/daz-assert-props-pose> (for you fundamental)
+  * <https://github.com/DRincs-Productions/daz-assert-pose#readme> (*all pose*, for you fundamental)
+  * <https://github.com/DRincs-Productions/daz-assert-props-pose> (*props and pose*, for you fundamental)
+  * https://github.com/DRincs-Productions/daz-assert-sexual (*sex pose*, for you fundamental)
+  * <https://github.com/DRincs-Productions/daz-assert-home>  (*home pose* & assert employees)
   * <https://github.com/DRincs-Productions/daz-assert-character-tool> (assert employees)
   * <https://github.com/DRincs-Productions/daz-assert-character-ABFD#readme>  (assert employees) is a project of  >20GB
-  * <https://github.com/DRincs-Productions/daz-assert-home>  (assert employees)
-  * https://github.com/DRincs-Productions/daz-assert-sexual (sex pose)
 * all scenes can only include material from one of these repos, <https://github.com/DRincs-Productions?q=daz&type=all&language=&sort>= (if you find other useful material request it from me [here](#request-new-material) )
 
 
