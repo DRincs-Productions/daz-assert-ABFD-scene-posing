@@ -2,7 +2,8 @@
 
 # First steps
 
-* Download this project (https://github.com/DRincs-Productions/ABFD-scene-posing) through [GitHub Desktop](https://desktop.github.com/) so you can share your work. [READ MORE](#Instructions-to-Download) ![image](https://user-images.githubusercontent.com/67595890/188271433-393aeb4d-4044-475e-a702-54077f99e159.png)
+* Download this project (https://github.com/DRincs-Productions/ABFD-scene-posing) through [GitHub Desktop](https://desktop.github.com/) so you can share your work. [READ MORE](#Instructions-to-Download) 
+ ![image](https://user-images.githubusercontent.com/67595890/188271433-393aeb4d-4044-475e-a702-54077f99e159.png)
 * (Recommended) In case you are working on several projects, I recommend splitting the assert folders, as shown below:
  ![image](https://user-images.githubusercontent.com/67595890/187970556-73c7c9a1-7def-4efe-ab4e-24f6a12e0f1e.png)
  ![image](https://user-images.githubusercontent.com/67595890/187970581-617e4ec2-16f1-4527-9665-c03f395c2b9b.png)
@@ -33,10 +34,13 @@ Here All:
 * Choose a ticket in TODO
 * assign it:![image](https://user-images.githubusercontent.com/67595890/187976846-b96bd4fe-2776-40ac-81b4-ceb79805a2ce.png)
 * drag it into 'In Progress'
-* create your line of work ![image](https://user-images.githubusercontent.com/67595890/188271312-4c007b09-7136-4e2b-94f1-9a09a939acac.png)   ![image](https://user-images.githubusercontent.com/67595890/188271522-413624b1-bdf3-4bf2-81c5-2d9a8bef0604.png)
+* create your line of work 
+  ![image](https://user-images.githubusercontent.com/67595890/188271312-4c007b09-7136-4e2b-94f1-9a09a939acac.png)   
+  ![image](https://user-images.githubusercontent.com/67595890/188271522-413624b1-bdf3-4bf2-81c5-2d9a8bef0604.png)
 * [move to your branch from GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#choosing-a-branch-and-making-changes)
 * creates a new folder into which it places your work.
-* routinely uploads changes:  [include-in-a-commit](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#selecting-changes-to-include-in-a-commit) & [Upload](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#write-a-commit-message-and-push-your-changes) (no we have scattering problems)   ![image](https://user-images.githubusercontent.com/67595890/188271568-135aa7c6-362e-4265-a662-d3d542311e8e.png)
+* routinely uploads changes:  [include-in-a-commit](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#selecting-changes-to-include-in-a-commit) & [Upload](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project#write-a-commit-message-and-push-your-changes) (no we have scattering problems)   
+  ![image](https://user-images.githubusercontent.com/67595890/188271568-135aa7c6-362e-4265-a662-d3d542311e8e.png)
 * if you have problems comment in the ticket
 * Once finished drag it in 'to test'
 
