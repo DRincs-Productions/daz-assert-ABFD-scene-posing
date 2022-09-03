@@ -14,6 +14,7 @@
   * <https://github.com/DRincs-Productions/daz-assert-character-tool> (assert employees)
   * <https://github.com/DRincs-Productions/daz-assert-character-ABFD#readme>  (assert employees) is a project of  >20GB
   * <https://github.com/DRincs-Productions/daz-assert-home>  (assert employees)
+  * https://github.com/DRincs-Productions/daz-assert-sexual (sex pose)
   
 ## How to work
 
