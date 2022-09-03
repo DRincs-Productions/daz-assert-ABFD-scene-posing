@@ -2,8 +2,7 @@
 
 # First steps
 
-* First of all, all scenes can only include material from one of these repos, <https://github.com/DRincs-Productions?q=daz&type=all&language=&sort>= (if you find other useful material request it from me [here](#request-new-material) )
-* Download this project through [GitHub Desktop](https://desktop.github.com/) so you can share your work. [READ MORE](#Instructions-to-Download)
+* Download this project (https://github.com/DRincs-Productions/ABFD-scene-posing) through [GitHub Desktop](https://desktop.github.com/) so you can share your work. [READ MORE](#Instructions-to-Download) ![image](https://user-images.githubusercontent.com/67595890/188271433-393aeb4d-4044-475e-a702-54077f99e159.png)
 * (Recommended) In case you are working on several projects, I recommend splitting the assert folders, as shown below:
  ![image](https://user-images.githubusercontent.com/67595890/187970556-73c7c9a1-7def-4efe-ab4e-24f6a12e0f1e.png)
  ![image](https://user-images.githubusercontent.com/67595890/187970581-617e4ec2-16f1-4527-9665-c03f395c2b9b.png)
@@ -15,7 +14,9 @@
   * <https://github.com/DRincs-Productions/daz-assert-character-ABFD#readme>  (assert employees) is a project of  >20GB
   * <https://github.com/DRincs-Productions/daz-assert-home>  (assert employees)
   * https://github.com/DRincs-Productions/daz-assert-sexual (sex pose)
-  
+* all scenes can only include material from one of these repos, <https://github.com/DRincs-Productions?q=daz&type=all&language=&sort>= (if you find other useful material request it from me [here](#request-new-material) )
+
+
 ## How to work
 
 (if you are new ask the developer where you can start)
