@@ -14,6 +14,7 @@
   * https://github.com/DRincs-Productions/daz-assert-sexual (**sex pose**, for you fundamental)
   * <https://github.com/DRincs-Productions/daz-assert-home>  (**home pose** & assert employees)
   * <https://github.com/DRincs-Productions/daz-assert-character-tool> (assert employees)
+  * https://github.com/DRincs-Productions/daz-assert-texture (assert employees)
   * <https://github.com/DRincs-Productions/daz-assert-character-ABFD#readme>  (assert employees) is a project of  >20GB
 * all scenes can only include material from one of these repos, <https://github.com/DRincs-Productions?q=daz&type=all&language=&sort>= (if you find other useful material request it from me [here](#request-new-material) )
 
