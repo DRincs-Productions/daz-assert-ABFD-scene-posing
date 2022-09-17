@@ -2,6 +2,14 @@
 
 # First steps
 
+## Download Assert
+Download all the asserts:
+* First install [GitHub Desktop](https://desktop.github.com/)
+* [All Assert link](https://github.com/orgs/DRincs-Productions/repositories?language=&q=daz-assert&sort=&type=all)
+  ![image](https://user-images.githubusercontent.com/67595890/190846570-40623a09-39a0-424b-ad12-b7fec3cdfc92.png)
+  ![image](https://user-images.githubusercontent.com/67595890/190846676-1a9beb04-b39f-4a4b-9ef3-d8f55a468fec.png)
+
+
 * Download this project (https://github.com/DRincs-Productions/ABFD-scene-posing) through [GitHub Desktop](https://desktop.github.com/) so you can share your work. [READ MORE](#Instructions-to-Download)   
  ![image](https://user-images.githubusercontent.com/67595890/188271433-393aeb4d-4044-475e-a702-54077f99e159.png)
 * (Recommended) In case you are working on several projects, I recommend splitting the assert folders, as shown below:
@@ -44,14 +52,6 @@ Here All:
   ![image](https://user-images.githubusercontent.com/67595890/188271568-135aa7c6-362e-4265-a662-d3d542311e8e.png)
 * if you have problems comment in the ticket
 * Once finished drag it in 'to test'
-
-## Instructions (for those unfamiliar with Git)
-
-First install [GitHub Desktop](https://desktop.github.com/) then clone this repo (watch [example](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)).
-
-(Important) After that you have to add the created folder as Daz library, like this.
-
-![alt text](https://github.com/DonRP/BBS-3D/blob/master/images/2021-06-052.webp "Daz")
 
 ## Request new material
 
