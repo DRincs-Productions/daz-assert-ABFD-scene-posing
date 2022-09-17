@@ -5,12 +5,23 @@
 ## Download Assert
 Download all the asserts:
 * First install [GitHub Desktop](https://desktop.github.com/)
-* [All Assert link](https://github.com/orgs/DRincs-Productions/repositories?language=&q=daz-assert&sort=&type=all)
+* Download [All Assert link](https://github.com/orgs/DRincs-Productions/repositories?language=&q=daz-assert&sort=&type=all)
   ![image](https://user-images.githubusercontent.com/67595890/190846570-40623a09-39a0-424b-ad12-b7fec3cdfc92.png)
   ![image](https://user-images.githubusercontent.com/67595890/190846676-1a9beb04-b39f-4a4b-9ef3-d8f55a468fec.png)
 * Download this project (https://github.com/DRincs-Productions/ABFD-scene-posing) so you can share your work.
 
+## How to download updates
+Assert updates will **not** happen by themselves, therefore: Every so often you have to open GitHub Desktop and download updates.    
+**GitHub does not always report that there are updates to be made (this depends on how long it stays open)**,   
+so I recommend that you perform the following process every month, and in case you miss something:
+1) click  in the upper right
+2) the list of what you have downloaded will appear,
+  ![image](https://user-images.githubusercontent.com/67595890/190847025-ac4c7fdf-5ef0-4954-ab3b-0128060f1887.png)
+3) click  the name of the first 'assert' and now you have to click  1-2 twice the big button in the top center.
+4) Do step 3 again for the whole item.
 
+
+ ## Connect them to daz:
 
 * (Recommended) In case you are working on several projects, I recommend splitting the assert folders, as shown below:
  ![image](https://user-images.githubusercontent.com/67595890/187970556-73c7c9a1-7def-4efe-ab4e-24f6a12e0f1e.png)
