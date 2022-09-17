@@ -8,10 +8,10 @@ Download all the asserts:
 * [All Assert link](https://github.com/orgs/DRincs-Productions/repositories?language=&q=daz-assert&sort=&type=all)
   ![image](https://user-images.githubusercontent.com/67595890/190846570-40623a09-39a0-424b-ad12-b7fec3cdfc92.png)
   ![image](https://user-images.githubusercontent.com/67595890/190846676-1a9beb04-b39f-4a4b-9ef3-d8f55a468fec.png)
+* Download this project (https://github.com/DRincs-Productions/ABFD-scene-posing) so you can share your work.
 
 
-* Download this project (https://github.com/DRincs-Productions/ABFD-scene-posing) through [GitHub Desktop](https://desktop.github.com/) so you can share your work. [READ MORE](#Instructions-to-Download)   
- ![image](https://user-images.githubusercontent.com/67595890/188271433-393aeb4d-4044-475e-a702-54077f99e159.png)
+
 * (Recommended) In case you are working on several projects, I recommend splitting the assert folders, as shown below:
  ![image](https://user-images.githubusercontent.com/67595890/187970556-73c7c9a1-7def-4efe-ab4e-24f6a12e0f1e.png)
  ![image](https://user-images.githubusercontent.com/67595890/187970581-617e4ec2-16f1-4527-9665-c03f395c2b9b.png)
