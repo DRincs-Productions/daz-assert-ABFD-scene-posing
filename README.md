@@ -74,3 +74,9 @@ Here All:
 
 If you need an Assert that is not included in this folder try checking in these bookmarks: [raindrop](https://raindrop.io/drincs)
 in case you find what you needed or not, request to add a new Assert [here](https://github.com/DRincs-Productions/daz-assert-posing/issues/new/choose).
+     
+
+***WARNING***: not everything has been uploaded online, so if for some other item you are missing some dependencies: don't send me the image of what you are missing, but the text (that way you make my life easier), in this link: https://github.com/DRincs-Productions/daz-assert-pose/issues/new/choose      
+![image](https://user-images.githubusercontent.com/67595890/190847488-2dd8d582-ca88-4fd9-b2cd-cbc13a51d733.png)
+
+
