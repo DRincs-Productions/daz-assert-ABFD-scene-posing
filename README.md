@@ -21,21 +21,27 @@ so I recommend that you perform the following process every month, and in case y
 4) Do step 3 again for the whole item.
 
 
- ## Connect them to daz:
-
-* (Recommended) In case you are working on several projects, I recommend splitting the assert folders, as shown below:
+## Connect them to daz:
+Open Settings    
  ![image](https://user-images.githubusercontent.com/67595890/187970556-73c7c9a1-7def-4efe-ab4e-24f6a12e0f1e.png)
- ![image](https://user-images.githubusercontent.com/67595890/187970581-617e4ec2-16f1-4527-9665-c03f395c2b9b.png)
-* The following repos will also be essential:
-  * <https://github.com/DRincs-Productions/ABFD-assert> (Where the characters and environments will be)
-  * <https://github.com/DRincs-Productions/daz-assert-pose#readme> (**all pose**, for you fundamental)
-  * <https://github.com/DRincs-Productions/daz-assert-props-pose> (**props and pose**, for you fundamental)
-  * https://github.com/DRincs-Productions/daz-assert-sexual (**sex pose**, for you fundamental)
-  * <https://github.com/DRincs-Productions/daz-assert-home>  (**home pose** & assert employees)
-  * <https://github.com/DRincs-Productions/daz-assert-character-tool> (assert employees)
-  * https://github.com/DRincs-Productions/daz-assert-texture (assert employees)
-  * <https://github.com/DRincs-Productions/daz-assert-character-ABFD#readme>  (assert employees) is a project of  >20GB
-* all scenes can only include material from one of these repos, <https://github.com/DRincs-Productions?q=daz&type=all&language=&sort>= (if you find other useful material request it from me [here](#request-new-material) )
+1) creates a working environment
+2) select it
+3) click on Daz Studio Format
+4) Add all the assert paths you downloaded. (make sure they are all) + **'My DAZ 3D Library'** folder (the deafult folder of daz)
+![image](https://user-images.githubusercontent.com/67595890/190847307-1c821678-2014-4d54-af2a-709c373c6abe.png)
+ 
+## Test
+
+Now you should have something like this:    
+![image](https://user-images.githubusercontent.com/67595890/190847385-ecf9cbd2-28a2-491d-af60-366435b5c433.png)     
+Now in the folder 'ABFD-assert' open  MC       
+![image](https://user-images.githubusercontent.com/67595890/190847401-7fa7b8e8-d41e-4f5d-a0a0-c36b0027d59f.png)     
+it doesn't see give you errors otherwise you did something wrong.    
+Also try     
+![image](https://user-images.githubusercontent.com/67595890/190847420-06742eea-8526-4ad1-92ee-35981619848d.png)     
+
+
+
 
 
 ## How to work
