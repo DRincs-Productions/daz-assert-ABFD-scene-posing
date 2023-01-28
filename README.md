@@ -2,8 +2,7 @@
 
 # First steps
 
-## Download Assert
-Download all the asserts:
+## Download all Asserts
 1) First install [GitHub Desktop](https://desktop.github.com/)
 2) Download [All Assert link](https://github.com/orgs/DRincs-Productions/repositories?language=&q=daz-assert&sort=&type=all)     
   ![image](https://user-images.githubusercontent.com/67595890/190846570-40623a09-39a0-424b-ad12-b7fec3cdfc92.png)       
