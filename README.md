@@ -1,20 +1,14 @@
 [![Git Anti Virus Scan](https://github.com/DRincs-Productions/ABFD-scene-posing/actions/workflows/antivirus.yml/badge.svg)](https://github.com/DRincs-Productions/ABFD-scene-posing/actions/workflows/antivirus.yml)
 
 # First steps
-
-* Download this project (https://github.com/DRincs-Productions/ABFD-scene-posing) through [GitHub Desktop](https://desktop.github.com/) so you can share your work. [READ MORE](#Instructions-to-Download)   
+1) Install [GitHub Desktop](https://desktop.github.com/)
+* Download this project (https://github.com/DRincs-Productions/ABFD-scene-posing) through GitHub Desktop so you can share your work.     
  ![image](https://user-images.githubusercontent.com/67595890/188271433-393aeb4d-4044-475e-a702-54077f99e159.png)
-* (Recommended) In case you are working on several projects, I recommend splitting the assert folders, as shown below:
- ![image](https://user-images.githubusercontent.com/67595890/187970556-73c7c9a1-7def-4efe-ab4e-24f6a12e0f1e.png)
- ![image](https://user-images.githubusercontent.com/67595890/187970581-617e4ec2-16f1-4527-9665-c03f395c2b9b.png)
-* The following repos will also be essential:
-  * <https://github.com/DRincs-Productions/ABFD-assert> (Where the characters and environments will be)
-  * <https://github.com/DRincs-Productions/daz-assert-pose#readme> (**all pose**, for you fundamental)
-  * <https://github.com/DRincs-Productions/daz-assert-props-pose> (**props and pose**, for you fundamental)
-  * https://github.com/DRincs-Productions/daz-assert-sexual (**sex pose**, for you fundamental)
-  * <https://github.com/DRincs-Productions/daz-assert-home>  (**home pose** & assert employees)
-  * <https://github.com/DRincs-Productions/daz-assert-character-tool> (assert employees)
-  * <https://github.com/DRincs-Productions/daz-assert-character-ABFD#readme>  (assert employees) is a project of  >20GB
+* download all the projects in this list in the same way as in the previous step.      
+ List: https://github.com/orgs/DRincs-Productions/repositories?q=daz-assert&type=all&language=&sort=
+* Create the ABFD folder organization on DAZ: `Edit/Preferences/Content/Content Dictionary Manager...`. And add all the folders downloaded in the previous step.    
+ ![image](https://user-images.githubusercontent.com/67595890/187970556-73c7c9a1-7def-4efe-ab4e-24f6a12e0f1e.png)   
+ ![image](https://user-images.githubusercontent.com/67595890/187970581-617e4ec2-16f1-4527-9665-c03f395c2b9b.png)   
 * all scenes can only include material from one of these repos, <https://github.com/DRincs-Productions?q=daz&type=all&language=&sort>= (if you find other useful material request it from me [here](#request-new-material) )
 
 
