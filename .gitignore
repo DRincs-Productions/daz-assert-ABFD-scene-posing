@@ -22,7 +22,10 @@ data
 *Z !Zeddicuss Store.*
 *!Zeddicuss Store.*
 *Z * !Zero Full Body.*
-*Z * !Tip.dsa
+*Z * !Tip.*
+*Z !* Tips - Click Me.*
+*Z*Zeddicuss Store.*
+
 *iG Sweet Seduction.*
 *!Note.*
 *Z NGM !!* - Double Click Me.*
@@ -33,6 +36,8 @@ data
 *EJ Body Shapes ! Load Tutorial.*
 *BU2 Instructions.*
 *MikeD.*
+
+*.DS_Store
+*.ini
 data/auto_adapted
 Rubbish
-*desktop.ini
