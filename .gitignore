@@ -1,8 +1,7 @@
-Runtime/*/*.jpg
-Runtime/Support
+Runtime
 Wiki
 Documentation
-
+data
 *!Hint.*
 *!Hint2.*
 *i13.*
