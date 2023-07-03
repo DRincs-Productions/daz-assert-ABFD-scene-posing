@@ -2,17 +2,6 @@
 
 ## How to work
 
-(if you are new ask the developer where you can start)
-
-You can find the tickets you are interested in here:
-<https://github.com/orgs/DRincs-Productions/projects/1/views/4>
-
-Here your tickets:
-<https://github.com/orgs/DRincs-Productions/projects/1/views/2>
-
-Here All:
-<https://github.com/orgs/DRincs-Productions/projects/1/views/1>
-
 * Choose a ticket in TODO
 * assign it:![image](https://user-images.githubusercontent.com/67595890/187976846-b96bd4fe-2776-40ac-81b4-ceb79805a2ce.png)
 * drag it into 'In Progress'
