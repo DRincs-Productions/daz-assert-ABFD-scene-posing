@@ -1,8 +1,7 @@
-Runtime/*/*.jpg
-Runtime/Support
+Runtime
 Wiki
 Documentation
-
+data
 *!Hint.*
 *!Hint2.*
 *i13.*
@@ -23,7 +22,9 @@ Documentation
 *Z !Zeddicuss Store.*
 *!Zeddicuss Store.*
 *Z * !Zero Full Body.*
-*Z * !Tip.dsa
+*Z * !Tip.*
+*Z !* Tips - Click Me.*
+*Z*Zeddicuss Store.*
 
 *iG Sweet Seduction.*
 *!Note.*
@@ -35,3 +36,8 @@ Documentation
 *EJ Body Shapes ! Load Tutorial.*
 *BU2 Instructions.*
 *MikeD.*
+
+*.DS_Store
+*.ini
+data/auto_adapted
+Rubbish
